@@ -1,0 +1,22 @@
+body { background: #00b3e6;
+}
+
+.blue-color {
+    color:blue;
+    display: block;
+}
+ 
+.green-color {
+    color:green;
+}
+ 
+.teal-color {
+    color:teal;
+}
+
+.yellow-color {
+color:yellow;
+}
+.red-color {
+    color:red;
+}
